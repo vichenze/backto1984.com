@@ -1,0 +1,17 @@
+baseurl = "http://fiction.backto1984.com"
+defaultLanguageCode = "fr"
+title = "Backto1984 — Fictions"
+theme = "hemingway"
+copyright = "hello [at] backto1984.com"
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+
+[[params.social]]
+url = "https://twitter.com/vichenze"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"

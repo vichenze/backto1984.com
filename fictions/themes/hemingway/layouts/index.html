@@ -1,0 +1,33 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+<section class="section">
+	<div class="container">
+		{{ range sort .Paginator.Pages }}
+		<article>
+			<hgroup>
+				<h2 class="subtitle is-6">{{ .Date.Day }} {{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}</h2>
+				<h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
+
+			</hgroup>
+			<div class="content">
+				{{ .Summary | plainify | safeHTML }}
+				{{ if .Truncated }}
+				...<a class="button is-link" href="{{ .Permalink }}" style="height:28px">
+						Lire la suite
+						<span class="icon is-small">
+							<i class="fa fa-angle-double-right"></i>
+						</span>
+					</a>
+				{{ end }}
+			</div>
+			<ul class="tags">
+				{{ range .Params.tags }}
+					<li>#{{ . }}</li>
+				{{ end }}
+			</ul>
+		</article>
+		{{ end }}
+	</div>
+</section>
+{{ partial "pager" . }}
+{{ partial "footer" . }}
