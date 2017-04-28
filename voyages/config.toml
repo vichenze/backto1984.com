@@ -1,0 +1,17 @@
+baseurl = "http://voyages.backto1984.com"
+defaultContentLanguage = "fr"
+title = "Back to 1984 — Voyages"
+theme = "startbootstrap-clean-blog"
+copyright = "hello [at] backto1984.com"
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+
+[[params.social]]
+url = "https://twitter.com/vichenze"
+title = "twitter"
+
+[[params.social]]
+url = "/index.xml"
+title = "rss"
