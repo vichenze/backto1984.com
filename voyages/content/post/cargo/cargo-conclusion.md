@@ -4,7 +4,7 @@ date = "2015-09-06"
 categories = ['Journal de bord transatlantique']
 description = "Où je donne quelques pistes pour essayer aussi."
 
-image = "images/cargo_conclusion/header.jpg"
+image = "images/cargo/cargo_conclusion/header.jpg"
 +++
 
 

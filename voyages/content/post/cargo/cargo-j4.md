@@ -4,7 +4,7 @@ date = "2015-08-11"
 categories = ['Journal de bord transatlantique']
 description = "Où nous avons de la concurrence."
 
-image = "images/cargo4/header.jpg"
+image = "images/cargo/cargo4/header.jpg"
 +++
 
 
@@ -14,12 +14,12 @@ Il nous raconte notamment comment se passe les contrôles, et la tendance des ch
 Il nous explique aussi que le cargo embarque du matériel pour Météo France, et qu’arrivé à une certaine distance des côtes, ils gonflent des ballons sondes qu’ils laissent s’envoler. J’ai hâte de voir ça !
 
 
-![Un paquebot italien](/images/cargo4/italien.jpg)
+![Un paquebot italien](/images/cargo/cargo4/italien.jpg)
 *Un paquebot italien*
 
 Toujours dans l’attente des dockers nous voyons arriver un énorme navire de croisière italien, qui passe sous le pont, nous dépasse, fait demi-tour puis vient se garer juste devant nous. Une dizaine de bus arrivent au pied levé sur le quai pour embarquer tous ses touristes.
 
-![Camarade, choisi ton camp !](/images/cargo4/camarade.jpg)
+![Camarade, choisi ton camp !](/images/cargo/cargo4/camarade.jpg)
 *Camarade, choisi ton camp !*
 
 La grue se réveille enfin, décharge 8 containers, ouvre le ventre de notre cargo, décharge 3 autres containers puis enfin le coupable de notre retard est sorti. 26 tonnes de porc (je vous laisse faire le calcul de la valeur du machin, en fonction du prix au kilo chez votre boucher) qu’on laisse ici car elles n’auraient pas tenu la traversée sans réfrigération. On rempile dans l’autre sens, on ferme la cale, on rempile encore, on remonte la grue, on enlève la passerelle, et hop emballé c’est pesé on s’en va.
@@ -31,11 +31,11 @@ Voilà le coupable de notre retard
 
 Juste après le pont, on trouve sur notre droite les chantiers navals de Saint-Nazaire, avec deux choses intéressantes à observer. Tout d’abord le Harmony of the Seas, un paquebot en construction, qui sera le plus grand du monde avec pas moins de 360 mètres de long, et qui pourra accueillir 8000 personnes. Et puis juste après, nous avons les deux frégates Mistral commandées par les russes, et qui attendent leur heure ici.
 
-![Le Harmony of the Seas](/images/cargo4/harmony.jpg)
+![Le Harmony of the Seas](/images/cargo/cargo4/harmony.jpg)
 *Le Harmony of the Seas*
 
 
-![Les frégates (en gris au milieu de la photo)](/images/cargo4/mistral.jpg)
+![Les frégates (en gris au milieu de la photo)](/images/cargo/cargo4/mistral.jpg)
 *Les frégates (en gris au milieu de la photo)*
 
 La sortie du port pose moins de problème que l’entrée, et il faut simplement faire attention au trafic. Il y a quelques petits navires de pêche ou quelques voiliers qui ont des trajectoires un peu trop perpendiculaires à la nôtre au goût du capitaine et du pilote. Il faut donc envoyer quelques coups de sirène pour faire fuir les intrépides pécheurs qui ne répondent par ailleurs pas à leur radio, et les suivre aux jumelles jusqu’à ce qu’ils virent de bord. Le capitaine peste doucement, il n’y a plus de respect pour les gros, il se fait couper la route allègrement.

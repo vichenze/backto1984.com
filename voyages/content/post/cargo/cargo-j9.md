@@ -4,18 +4,18 @@ date = "2015-08-16"
 categories = ['Journal de bord transatlantique']
 description = "Où je visite les mines de la Moria."
 
-image = "images/cargo9/header.jpg"
+image = "images/cargo/cargo9/header.jpg"
 +++
 
 
 La température s’est nettement réchauffée, et je peux dormir avec plaisir en gardant ouvert mon hublot (sans avoir de problème de moustiques).
 
-![Ceci n’est pas un lever de soleil](/images/cargo9/soleil.jpg)
+![Ceci n’est pas un lever de soleil](/images/cargo/cargo9/soleil.jpg)
 *Ceci n’est pas un lever de soleil*
 
 J’ai raté le lever du soleil, enfin je n’ai pas raté grand chose car l’horizon était encore très nuageux. J’ai pu profiter par contre de la fraîcheur des premiers rayons de soleil et de la chaleur du vent, qui annonce la fin de la nuit. Curieux comme le vent de la nuit est plus chaud que celui de la journée. Probablement une question d’inertie thermique.
 
-![Poisson-volant](/images/cargo9/tache.jpg)
+![Poisson-volant](/images/cargo/cargo9/tache.jpg)
 *Poisson-volant*
 
 Encore beaucoup de poissons volants ce matin, mais ils sont très difficiles à prendre en photo, car très petits, très rapides et surtout complètement inattendus. La tâche blanche en haut à gauche ici n’est pas un artefact visuel, ça en est un, qui ressemble à un papillon, ce sont ses ailes qui réfléchissent la lumière. Il faut imaginer des libellules qui sortent d’un seul coup de l’immensité de la mer, qui se matérialisent sous nos yeux, qui battent frénétiquement des ailes pour se maintenir juste au dessus de l’eau, qui ricochent même parfois dessus, qui suivent une vague dans le sens de la longueur comme un surfeur puis qui replongent tête en avant dans les flots. Oui, une libellule qui fait du surf, c’est la meilleure image que vous pouvez en avoir.
@@ -27,7 +27,7 @@ Et ce qui marque en premier, c’est la taille. La taille immense de la salle qu
 
 Des boules quies nous sont fournies avant de rentrer, et elles ne sont pas de trop, car les bruits de la mécanique monte rapidement assez haut dans les décibels. De plus la chaleur à certains endroit atteint les 45°. Nous croisons quelques membres de l’équipage en plein travail dans l’atelier ou auprès des nombreuses autres machines, entre les générateurs électriques, les centrifugeuses, la chaudière, etc, un casque anti-bruit sur les oreilles. Il y a de quoi s’occuper, bref, ce sont un peu les mines de la Moria en version maritime si vous voyez le tableau, les gobelins en moins.
 
-![Ça gargouille sévère](/images/cargo9/glouglou.jpg)
+![Ça gargouille sévère](/images/cargo/cargo9/glouglou.jpg)
 *Ça gargouille sévère*
 
 Voici ce que donne en sortie toute cette mécanique, nous permettant d’avancer au final assez vite.
@@ -36,7 +36,7 @@ Une remarque que je me suis faite d’ailleurs il y a peu, c’est que c’est a
 
 Voilà peut-être ce qu’est voyager en cargo aussi, c’est ressentir cette fragilité, se remettre à notre place dans l’échelle du monde.
 
-![La piscine](/images/cargo9/piscine.jpg)
+![La piscine](/images/cargo/cargo9/piscine.jpg)
 *La piscine*
 
 En ce samedi soir, c’est la fête à bord aussi, puisque c’est jour de barbecue. On couche le soleil, on allume les lumières, on se cale à côté de la piscine et c’est parti. On en oublierait presque qu’on est à bord d’un bateau, perdu dans l’océan. C’est l’occasion de casser les barrières l’espace d’un temps, où officiers, équipages et passagers se côtoient autour d’un verre et d’une brochette à faire soi-même. Le capitaine nous fait justement part de sa gestion de l’alcool à bord, il préfère la tolérer dans certains cas comme celui-là et la surveiller, plutôt que de l’interdire complètement sachant que ce sera fait dans le dos alors. Car en tant que capitaine il est entièrement responsable de ce qui se passe à bord, que ce soit pendant les heures de travail mais aussi celles de repos, car dans les deux cas c’est toujours sur le lieu de travail.

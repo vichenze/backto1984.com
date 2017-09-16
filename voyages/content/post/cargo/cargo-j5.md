@@ -4,7 +4,7 @@ date = "2015-08-12"
 categories = ['Journal de bord transatlantique']
 description = "Où j'ai presque regretté d'être parti."
 
-image = "images/cargo5/header.jpg"
+image = "images/cargo/cargo5/header.jpg"
 +++
 
 
@@ -12,7 +12,7 @@ image = "images/cargo5/header.jpg"
 
 Je passe mon temps à contempler l’horizon et la formation des vagues, elles me donnent l’impression de montagnes qui sortent de terre, avec leurs multiples faces et leurs chocs qui en créent de nouvelles encore plus grandes. J’ai le sentiment que je pourrais passer mon temps à cela.
 
-![La planète-océan Atlantique](/images/cargo5/planete.jpg)
+![La planète-océan Atlantique](/images/cargo/cargo5/planete.jpg)
 *La planète-océan Atlantique*
 
 Je ne sais pas si c’est l’air marin qui fait ça, mais j’ai toujours très faim, et je me presse d’arriver au repas pour me restaurer comme il se doit. Le chef est français et nous prépare toujours des menus assez variés, avec entrée, plat, fromage et dessert. Il est d’ailleurs arrivé à me réconcilier avec le chou-fleur, ce n’était pas une mince affaire.
@@ -24,5 +24,5 @@ Le soleil revient en fin de journée, et avec lui les mouvements plus calmes du 
 
 Et puis ce soir nous reculons d’une heure nos montres encore une fois. Voilà donc deux journées de 25 heures l’une après l’autre (et ce n’est pas fini !). En d’autres lieux cela aurait pu être intéressant, ici nous n’avons déjà plus la même logique horaire.
 
-![Le soleil aura été timide aujourd’hui](/images/cargo5/soleil.jpg)
+![Le soleil aura été timide aujourd’hui](/images/cargo/cargo5/soleil.jpg)
 *Le soleil aura été timide aujourd’hui*
