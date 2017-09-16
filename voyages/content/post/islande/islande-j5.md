@@ -1,5 +1,5 @@
 +++
-title = "Islande J5 : la spirale infernale du wow effect"
+title = "J5 : la spirale infernale du wow effect"
 date = "2016-08-06"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

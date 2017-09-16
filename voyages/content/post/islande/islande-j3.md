@@ -1,5 +1,5 @@
 +++
-title = "Islande J3 : voyage au centre des oiseaux"
+title = "J3 : voyage au centre des oiseaux"
 date = "2016-08-04"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

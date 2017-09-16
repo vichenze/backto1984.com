@@ -1,5 +1,5 @@
 +++
-title = "Cargo J2 : On remonte la Manche"
+title = "J2 : On remonte la Manche"
 date = "2015-08-09"
 categories = ['Journal de bord transatlantique']
 description = "Où je découvre une vérité dérangeante sur l'équipage."

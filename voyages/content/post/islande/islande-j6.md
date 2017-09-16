@@ -1,5 +1,5 @@
 +++
-title = "Islande J6 : la solitude du dauphin"
+title = "J6 : la solitude du dauphin"
 date = "2016-08-07"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

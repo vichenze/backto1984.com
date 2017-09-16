@@ -1,5 +1,5 @@
 +++
-title = "Cargo J11 : le Bout du monde"
+title = "J11 : le Bout du monde"
 date = "2015-08-18"
 categories = ['Journal de bord transatlantique']
 description = "Où je prouve que la Terre est plate."

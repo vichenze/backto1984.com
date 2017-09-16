@@ -1,5 +1,5 @@
 +++
-title = "Cargo J5 : Vers l'infini est au-delà"
+title = "J5 : Vers l'infini est au-delà"
 date = "2015-08-12"
 categories = ['Journal de bord transatlantique']
 description = "Où j'ai presque regretté d'être parti."

@@ -1,5 +1,5 @@
 +++
-title = "Islande J7 : retour sur la Nationale 7"
+title = "J7 : retour sur la Nationale 7"
 date = "2016-08-08"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

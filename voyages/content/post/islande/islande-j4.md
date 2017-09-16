@@ -1,5 +1,5 @@
 +++
-title = "Islande J4 : le sable rouge et les cocotiers"
+title = "J4 : le sable rouge et les cocotiers"
 date = "2016-08-05"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

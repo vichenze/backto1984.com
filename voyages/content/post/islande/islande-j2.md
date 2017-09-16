@@ -1,5 +1,5 @@
 +++
-title = "Islande J2 : fallait pas être en retard"
+title = "J2 : fallait pas être en retard"
 date = "2016-08-03"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

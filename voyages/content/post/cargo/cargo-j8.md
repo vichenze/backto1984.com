@@ -1,5 +1,5 @@
 +++
-title = "Cargo J8 : la Fin du monde"
+title = "J8 : la Fin du monde"
 date = "2015-08-15"
 categories = ['Journal de bord transatlantique']
 description = "Où s'ouvre une faille spacio-temporelle."

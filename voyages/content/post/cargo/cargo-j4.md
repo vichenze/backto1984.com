@@ -1,5 +1,5 @@
 +++
-title = "Cargo J4 : On repart"
+title = "J4 : On repart"
 date = "2015-08-11"
 categories = ['Journal de bord transatlantique']
 description = "Où nous avons de la concurrence."

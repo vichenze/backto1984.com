@@ -1,5 +1,5 @@
 +++
-title = "Islande J11 : les tentacules du Vatnajökull"
+title = "J11 : les tentacules du Vatnajökull"
 date = "2016-08-12"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

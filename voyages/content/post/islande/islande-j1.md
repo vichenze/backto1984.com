@@ -1,5 +1,5 @@
 +++
-title = "Islande J1 : le barbecue poissoneux"
+title = "J1 : le barbecue poissoneux"
 date = "2016-08-02"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

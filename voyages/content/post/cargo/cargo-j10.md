@@ -1,5 +1,5 @@
 +++
-title = "Cargo J10 : bleu Outremer"
+title = "J10 : bleu Outremer"
 date = "2015-08-17"
 categories = ['Journal de bord transatlantique']
 description = "Où ça sent bon les Antilles."

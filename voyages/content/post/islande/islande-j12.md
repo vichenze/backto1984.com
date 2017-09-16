@@ -1,5 +1,5 @@
 +++
-title = "Islande J12 : la solitude des plages de sable noir"
+title = "J12 : la solitude des plages de sable noir"
 date = "2016-08-13"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

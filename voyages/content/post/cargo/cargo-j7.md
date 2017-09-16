@@ -1,5 +1,5 @@
 +++
-title = "Cargo J7 : Monseigneur l’astre solaire"
+title = "J7 : Monseigneur l’astre solaire"
 date = "2015-08-14"
 categories = ['Journal de bord transatlantique']
 description = "Où nous avons croisé un OVNI."

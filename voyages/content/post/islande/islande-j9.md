@@ -1,5 +1,5 @@
 +++
-title = "Islande J9 : les cascades abandonnées"
+title = "J9 : les cascades abandonnées"
 date = "2016-08-10"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

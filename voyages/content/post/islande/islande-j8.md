@@ -1,5 +1,5 @@
 +++
-title = "Islande J8 : Mars, cet ersatz de l’Islande"
+title = "J8 : Mars, cet ersatz de l’Islande"
 date = "2016-08-09"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

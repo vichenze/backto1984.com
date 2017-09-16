@@ -1,5 +1,5 @@
 +++
-title = "Cargo J9 : dans l’Antre du feu"
+title = "J9 : dans l’Antre du feu"
 date = "2015-08-16"
 categories = ['Journal de bord transatlantique']
 description = "Où je visite les mines de la Moria."

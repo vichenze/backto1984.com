@@ -1,5 +1,5 @@
 +++
-title = "Islande J13 : la conclusion du bilan final"
+title = "J13 : la conclusion du bilan final"
 date = "2016-08-14"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"

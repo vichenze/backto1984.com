@@ -1,5 +1,5 @@
 +++
-title = "Islande J10 : générateur de cartes postales"
+title = "J10 : générateur de cartes postales"
 date = "2016-08-11"
 categories = ['Carnet de voyage en Islande']
 type = "post_with_map"
