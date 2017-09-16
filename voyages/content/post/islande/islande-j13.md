@@ -7,6 +7,7 @@ type = "post_with_map"
 gpx_file = "/gpx/islande/etape1.gpx"
 map_longitude = "-22.2036"
 map_latitude = "64.0074"
+map_zoom = "9"
 
 Parcours = "Reykjavik - Keflavik"
 Distance = "180 km"
@@ -31,30 +32,32 @@ Budget
 Il s’agit d’un aperçu global, je n’ai pas tenu des comptes très détaillés.
 Pour 13 jours de voyage :
 
-    Avion : 560 €
-    Voiture : 830 €
-    Hébergement : 600 €
-    1 journée en bus vers Landmannalaugar : 90 €
-    Essence : 200 €
-    Nourriture : 200 €
-    Ferry (voiture + 1 personne) 75€
+* Avion : 560 €
+* Voiture : 830 €
+* Hébergement : 600 €
+* 1 journée en bus vers Landmannalaugar : 90 €
+* Essence : 200 €
+* Nourriture : 200 €
+* Ferry (voiture + 1 personne) 75€
 
 Total : ~2500€
 
 Sachant que :
-– la voiture était une Nissan Micra, vous pouvez multiplier le prix par 1,6 / 1,8 pour un 4×4
-– les hébergements étaient des auberges de jeunesse majoritairement, vous pouvez diviser par 2 si vous choisissez le camping
-– la nourriture ne comprend aucun restaurant (qui sont très chers)
+
+* la voiture était une Nissan Micra, vous pouvez multiplier le prix par 1,6 / 1,8 pour un 4×4
+* les hébergements étaient des auberges de jeunesse majoritairement, vous pouvez diviser par 2 si vous choisissez le camping
+* la nourriture ne comprend aucun restaurant (qui sont très chers)
+
 Ce qu’il reste quand on enlève le bling-bling marketing
 
-    les déserts de sable noir de la côte sud (le vide, l’infini, la force qui s’en dégage)
-    le sud et l’ouest des Westfjords (le calme, la grandeur, la solitude)
-    Landmannalaugar (la force de la nature, la beauté, la surprise)
-    la péninsule de Snæfellsnes et Stykkishólmur (la sérénité, l’harmonie, la proximité)
-    le champ de lave du Laki, le soir après une journée ensoleillée (la féérie, la féérie, la féérie)
+* les déserts de sable noir de la côte sud (le vide, l’infini, la force qui s’en dégage)
+* le sud et l’ouest des Westfjords (le calme, la grandeur, la solitude)
+* Landmannalaugar (la force de la nature, la beauté, la surprise)
+* la péninsule de Snæfellsnes et Stykkishólmur (la sérénité, l’harmonie, la proximité)
+* le champ de lave du Laki, le soir après une journée ensoleillée (la féérie, la féérie, la féérie)
 
 De manière générale, c’est une bonne idée de profiter de cette période entre chiens et loups, où le soleil derrière l’horizon continue à illuminer le ciel. C’est une ambiance que l’on ne peut connaître en France, et qui enrobe le monde d’une atmosphère particulière.
 
 
 
-THE END.
+THE END

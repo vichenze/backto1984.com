@@ -19,12 +19,16 @@ Je me réveille avec vue sur l’Helka, un volcan actif qui est susceptible de r
 J’ai peu de kilomètres à faire aujourd’hui, donc je peux prendre le temps de suivre les indications de mon hôte pour visiter les coins alentours. À commencer par une piscine abandonnée, perdue en plein désert, à laquelle on accède par une piste qui n’est nullement indiquée. Bref, il faut vraiment savoir où on va et ce qu’on vient chercher pour trouver, sinon on a tôt fait de passer à côté ou de se perdre (il faut bifurquer de la route 32 au point suivant : 64.121639, -19.871243).
 
 Un gros panneau sur le portail indique que la piscine est fermée, mais quelques voitures sur le parking et des bruits au loin incitent à rentrer tout de même. On découvre alors une vieille piscine, effectivement bien abandonnée puisque des algues se sont développées au fond et contre les parois. Mais la source d’eau chaude à proximité, qui, elle, n’en a que faire des tumultes volatils de l’économie humaine, continue à faire jaillir de ses profondeurs une eau toujours aussi chaude, qui continue par la même occasion à alimenter la piscine. On se retrouve donc avec une piscine perdue au milieu de collines désertiques, continuellement remplie par l’eau de la source à côté, et dans laquelle des touristes avisés (ou conduits ici par un guide local, comme c’est le cas du groupe que je croise) viennent se réchauffer malgré l’état des lieux.
-40° à l'ombre. Enfin non, dans l'eau.
-40° à l’ombre. Enfin non, dans l’eau.
+
+
+![40° à l’ombre. Enfin non, dans l’eau.](/images/islande/j9/temperature.jpg)
+*40° à l’ombre. Enfin non, dans l’eau.*
 
 En revenant sur la route, tout proche de là se trouve la sympathique petite cascade de *Hjálparfoss* qui se distingue, outre par les deux bras d’eau qui se rejoignent au niveau de la chute, par la présence d’orgues basaltiques tout autour du lieu. Il s’agit là de la lave solidifiée qui s’est rétractée en se refroidissant pour former des « barres » collées les unes aux autres.
-L'islande, l'autre pays des cascades.
-L’islande, l’autre pays des cascades.
+
+
+![L’islande, l’autre pays des cascades.](/images/islande/j9/cascade.jpg)
+*L’islande, l’autre pays des cascades.*
 
 Pour finir le tour du coin, direction *Stöng*, où se trouve les restes d’une ferme mis à nu par des fouilles archéologiques, et une colline verdoyante sur les hauteurs derrière.
 
@@ -35,8 +39,8 @@ Petit souci sur place, si sur la carte la route n’est pas notée « F » (rapp
 Il ne reste plus grand chose de la ferme en question, qui a probablement été abandonnée au XIIème suite à une grosse éruption de l’Helka. Ce qui est plus intéressant en revanche, c’est de continuer par-delà la ferme, en suivant les nombreux sentiers qui s’enfoncent dans la végétation plus dense sur cette colline, où se cachent dans la demi-ombre qu’elle offre de nombreux champignons. Il y a là de quoi préparer son dîner du jour pour qui sait les choisir.
 
 
-Qui veut tester s'il est comestible ou pas ?
-Qui veut tester s’il est comestible ou pas ?
+![Qui veut tester s’il est comestible ou pas ?](/images/islande/j9/champignon.jpg)
+*Qui veut tester s’il est comestible ou pas ?*
 
 En continuant encore un peu, on se retrouve dans un superbe lieu, intimiste, légèrement encaissé et protégé des éléments environnants, où se trouve plusieurs cascades. Elles ne sont pas de taille à concurrencer les plus grosses que j’ai pu croiser jusqu’ici, mais c’est leur présence toutes ici, c’est l’ensemble qui donne au lieu cette ambiance particulière. Sur le promontoire rocheux au centre, on a des cascades sur 180°. Et la verdure, attirée par toute cette eau, n’est pas en reste, c’est assez rare en Islande pour le souligner. C’est en fait un oasis, un véritable oasis perdu au milieu du désert.
 
@@ -53,10 +57,10 @@ Me voilà à nouveau sur la route N°1, qui m’ouvre à la côte sud du pays, l
 Dans l’auberge du soir, comme à plusieurs autres endroits en Islande d’ailleurs, une chose surprend dans la salle de bain. L’eau chaude dégage une odeur de souffre. Un peu perturbant au moment de se laver les dents ou de prendre sa douche.
 
 
-
 Les moutons du jour :
-Moutons du désert.
-Moutons du désert.
 
-30 photos de champignons mignons en cliquant ici.
-https://www.flickr.com/gp/135079249@N08/LK26GB
+
+![Moutons du désert.](/images/islande/j9/mouton.jpg)
+*Moutons du désert.*
+
+[30 photos de champignons mignons en cliquant ici](https://www.flickr.com/gp/135079249@N08/LK26GB).
