@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name></name>
+		<desc>Length: 50.77 km (31.55 mi)</desc>
+		<trkseg>
+			<trkpt lat="48.8788496" lon="-3.4864104"></trkpt>
+			<trkpt lat="48.8786874" lon="-3.4838676"></trkpt>
+			<trkpt lat="48.8767399" lon="-3.4571743"></trkpt>
+			<trkpt lat="48.8752157" lon="-3.3881664"></trkpt>
+			<trkpt lat="48.8886493" lon="-3.3130646"></trkpt>
+			<trkpt lat="48.9107672" lon="-3.2382202"></trkpt>
+			<trkpt lat="48.9211457" lon="-3.1541061"></trkpt>
+			<trkpt lat="48.9298304" lon="-3.1020927"></trkpt>
+			<trkpt lat="48.9246423" lon="-3.0432129"></trkpt>
+			<trkpt lat="48.9168592" lon="-3.0277634"></trkpt>
+			<trkpt lat="48.9003865" lon="-3.0198669"></trkpt>
+			<trkpt lat="48.8800703" lon="-3.0107689"></trkpt>
+			<trkpt lat="48.8684412" lon="-3.0142021"></trkpt>
+			<trkpt lat="48.8590682" lon="-3.0202103"></trkpt>
+			<trkpt lat="48.853308" lon="-3.0310249"></trkpt>
+			<trkpt lat="48.8470953" lon="-3.0440712"></trkpt>
+			<trkpt lat="48.8423505" lon="-3.0510235"></trkpt>
+			<trkpt lat="48.8376053" lon="-3.0557442"></trkpt>
+			<trkpt lat="48.8335376" lon="-3.0582333"></trkpt>
+			<trkpt lat="48.8311081" lon="-3.0583191"></trkpt>
+			<trkpt lat="48.8291871" lon="-3.0572033"></trkpt>
+			<trkpt lat="48.8263053" lon="-3.0541992"></trkpt>
+			<trkpt lat="48.8256273" lon="-3.0498219"></trkpt>
+			<trkpt lat="48.8257403" lon="-3.0459595"></trkpt>
+			<trkpt lat="48.8271529" lon="-3.0344582"></trkpt>
+			<trkpt lat="48.827605" lon="-3.0257893"></trkpt>
+			<trkpt lat="48.8287915" lon="-3.017571"></trkpt>
+			<trkpt lat="48.8302747" lon="-3.0109191"></trkpt>
+			<trkpt lat="48.8317155" lon="-3.0047393"></trkpt>
+			<trkpt lat="48.8334811" lon="-2.9982591"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
