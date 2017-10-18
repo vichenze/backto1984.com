@@ -1,0 +1,28 @@
+{{ partial "header.html" .}}
+
+	<div class="map" id="map"></div>
+
+	<article>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+					<header>
+						<h1>{{ .Title }}</h1>
+						<h2 class="subheading">{{ .Description }}</h2>
+						<span class="meta">
+							{{ partial "meta.html" .}}
+						</span>
+						<p>
+							<strong>Parcours</strong> : {{ .Params.parcours }}<br />
+							<strong>Distance</strong> : {{ .Params.distance }}<br />
+						</p>
+					</header>
+					{{ .Content }}
+					{{ partial "comments.html" .}}
+				</div>
+			</div>
+			{{ partial "prevnext.html" .}}
+		</div>
+	</article>
+
+{{ partial "footer.html" .}}

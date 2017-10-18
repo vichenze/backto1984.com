@@ -3,7 +3,7 @@ defaultContentLanguage = "fr"
 title = "Back to 1984 — Voyages"
 theme = "theme_voyage"
 copyright = "hello [at] backto1984.com"
-disqusShortname = ""
+disqusShortname = "vichenze"
 googleAnalytics = ""
 
 [params]

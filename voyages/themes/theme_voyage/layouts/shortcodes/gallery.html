@@ -1,0 +1,17 @@
+{{- $pathURL := .Get "pathURL" -}}
+{{- $pathURLSmall := printf "%s/%s" $pathURL "small" -}}
+{{- $path := printf "%s/%s" "/static" $pathURL -}}
+{{- $files := readDir $path -}}
+<h4>
+    Photos<br />
+    <small>(cliquez pour agrandir)</small>
+</h4>
+<ul class="gallery">
+    {{- range $files }}
+        {{ if ne .Name "small"}}
+            <li>
+                <a href="{{ $pathURL }}{{ .Name | relURL}}" class="venobox" data-gall="gallery1"><img src="{{ $pathURLSmall }}{{ .Name | relURL }}" alt="" /></a>
+            </li>
+        {{ end }}
+    {{- end }}
+</ul>

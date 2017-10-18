@@ -1,0 +1,38 @@
+{{ partial "header.html" .}}
+
+	<!-- Page Header -->
+	<!-- Set your background image for this header on the line below. -->
+	{{ if isset .Params "image" }}<header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/{{ .Params.image }}')">
+		{{ else }}<header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/img/post-bg.jpg')">
+	{{ end }}
+
+	</header>
+
+	<!-- Post Content -->
+	<article>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+					<header>
+						<h1>{{ .Title }}</h1>
+						<span class="meta">
+							{{ partial "meta.html" .}}
+						</span>
+						{{ if isset .Params "lieu" }}
+							<p>
+								<strong>Lieu</strong> : {{ .Params.lieu }}<br />
+							</p>
+						{{ end }}
+					</header>
+					{{ .Content }}
+					{{ partial "comments.html" .}}
+				</div>
+			</div>
+			{{ partial "prevnext.html" .}}
+
+			{{ partial "disqus.html" .}}
+		</div>
+	</article>
+
+
+{{ partial "footer.html" .}}
