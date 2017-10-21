@@ -17,3 +17,6 @@ fa_icon = "fa-twitter"
 [[params.social]]
 url = "/index.xml"
 fa_icon = "fa-rss"
+
+[blackfriday]
+  extensions = ["hardLineBreak"]
