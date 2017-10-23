@@ -4,6 +4,7 @@ tags = [ "poésie" ]
 date = "2016-12-23"
 author = "Vincent Reuss"
 +++
+
 Je me penche d'un côté
 Sans pouvoir l'affirmer
 Puis me redresse et me questionne

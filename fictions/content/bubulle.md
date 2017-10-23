@@ -2,7 +2,7 @@
 title = "Bubulle"
 tags = [ "théâtre", "absurde" ]
 date = "2017-02-16"
-author = "Vincent Reuss - Aurélie Forget"
+author = "Aurélie Forget - Vincent Reuss"
 +++
 
 

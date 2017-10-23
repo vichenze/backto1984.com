@@ -1,6 +1,7 @@
 +++
 title = "Pourquoi moi ?"
 date = "2015-11-24"
+author = "Vincent Reuss"
 +++
 L'homme ouvrit les yeux avec difficulté, releva la tête de la table sur laquelle il s'était affaissé. Le geste parut lui demander un immense effort, et il porta les mains à son visage pour le soutenir. Il bailla puis frotta sa joue contre son épaule gauche, avant de s'étirer de tout son long. Il bailla à nouveau. Un sourire d'aise se dessina sur ses lèvres lorsqu'il se redressa contre le dossier de sa chaise avant de s'abandonner, dans une longue expiration, à l'apaisement du demi-sommeil qui précède le réveil.
 
@@ -56,4 +57,3 @@ L'homme à la cravate rouge sentit après quelques pas la porte se refermer derr
 Après un petit moment de marche où il tourna plusieurs fois à droite et à gauche, il vit une lumière vive apparaître devant lui, aussi brusquement que l'ombre lui était apparu tout à l'heure. Et à peine eut-il distingué cette lumière qu'il fut ardemment projeté par la porte qui s'ouvra pour lui.
 
 Du regard, il balaya rapidement la pièce dans laquelle il était arrivé, réajusta sa cravate et son costard qui avaient été malmenés dans le couloir, puis tendit la main à un homme tout de blanc vêtu qui semblait surpris de son irruption soudaine.
-

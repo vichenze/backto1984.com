@@ -3,11 +3,17 @@ $primary: $blue
 $grey-dark: #42464c
 $family-sans-serif: BioRhyme, sans-serif
 
+$break-small: 320px
+$break-medium: 1200px
+
+
 @import "https://fonts.googleapis.com/css?family=BioRhyme:300"
 @import "node_modules/bulma/bulma"
 
 .nav-left
   flex-basis: auto
+  white-space: normal
+  font-size: 1em
 
 .container
   max-width: 800px
@@ -133,3 +139,11 @@ article+article
     pre,
     table
       margin-bottom: 1.5em
+
+
+@media screen and (max-width: $break-small)
+  .title.is-4
+    font-size: 1.5em
+@media screen and (max-width: $break-medium)
+  .title.is-4
+    font-size: 2.5em
