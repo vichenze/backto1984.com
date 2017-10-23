@@ -444,7 +444,7 @@ img {
 
 .map {
     width:100%;
-    height:450px;
+    height:250px;
     overflow:hidden;
     border:none;
 }
@@ -460,6 +460,7 @@ img {
     width: 100%;
     margin-bottom: 0;
     flex-wrap: wrap;
+    padding: 0;
 }
 .intro-cat li {
     height: 257px;
@@ -498,7 +499,7 @@ img {
 	padding:7px 14px;
 	background-color:#fff;
 	color: #000;
-	font-size: 1.2em;
+	font-size: 1.0em;
 }
 .gallery {
     list-style: none;
@@ -513,6 +514,10 @@ img {
 
 
 @media screen and (min-width: 641px) {
+
+    .map {
+        height: 450px;
+    }
 
     .intro-cat ul {
         height: auto;
