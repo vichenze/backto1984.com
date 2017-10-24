@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Théâtre on Back to 1984 - Articles</title>
+    <link>http://articles.backto1984.com/tags/th%C3%A9%C3%A2tre/</link>
+    <description>Recent content in Théâtre on Back to 1984 - Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>hello [at] backto1984.com</copyright>
+    <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://articles.backto1984.com/tags/th%C3%A9%C3%A2tre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PLOP</title>
+      <link>http://articles.backto1984.com/post/test/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://articles.backto1984.com/post/test/</guid>
+      <description>(Décor d’une entreprise aseptisée. Gros logo coloré qui pourrait rappeler n’importe quel marque. Un comptoir imposant trône au milieu de la scène, avec un panneau “Bureau des Réclamations. Derrière lui, une jeune femme en tailleur, bien maquillée, semble attendre, avec un sourire figé derrière le rouge à lèvres.
+Quelqu’un s’approche.)
+Hôtesse d’accueil : Bureau des Réclamations, que puis-je pour vous ?
+Petit homme : Hum, excusez-moi&amp;hellip; je cherche le Bureau des Réclamations.</description>
+    </item>
+    
+  </channel>
+</rss>
