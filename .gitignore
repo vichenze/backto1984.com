@@ -6,6 +6,11 @@ fictions/hugodeploy\.yaml
 fictions/deployed/
 
 
+articles/hugodeploy\.yaml
+articles/deployed/
+articles/public/
+
+
 voyages/public/
 voyages/hugodeploy\.yaml
 voyages/deployed/
