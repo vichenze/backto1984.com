@@ -2,16 +2,27 @@
 {{- $pathURLSmall := printf "%s/%s" $pathURL "small" -}}
 {{- $path := printf "%s/%s" "/static" $pathURL -}}
 {{- $files := readDir $path -}}
+{{- $thumbnailHeight := .Get "thumbnailHeight" | default "200" -}}
 <h4>
     Photos<br />
     <small>(cliquez pour agrandir)</small>
 </h4>
-<ul class="gallery">
+<div id="gallery" data-nanogallery2 = '{
+    "thumbnailHeight": {{ $thumbnailHeight }},
+    "thumbnailWidth": "auto",
+    "thumbnailLabel": { "display": false },
+    "thumbnailBorderHorizontal": 0,
+    "thumbnailBorderVertical": 0,
+    "thumbnailGutterWidth": 1,
+    "thumbnailGutterHeight": 1,
+    "viewerFullscreen": false,
+    "viewerToolbar": { "display": false },
+    "viewerTools": { "topRight": "zoomButton, fullscreenButton, closeButton", "topLeft": "pageCounter" }
+  }'>
     {{- range $files }}
         {{ if ne .Name "small"}}
-            <li>
-                <a href="{{ $pathURL }}{{ .Name | relURL}}" class="venobox" data-gall="gallery1"><img src="{{ $pathURLSmall }}{{ .Name | relURL }}" alt="" /></a>
-            </li>
+            <a href="{{ $pathURL }}{{ .Name | relURL}}" data-ngthumb="{{ $pathURLSmall }}{{ .Name | relURL }}"></a>
         {{ end }}
     {{- end }}
-</ul>
+</div>
+
