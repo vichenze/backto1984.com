@@ -1,0 +1,10 @@
+{{- $author := .Get "author" -}}
+{{- $source := .Get "source" -}}
+
+<blockquote>
+	<p>{{ .Inner }}</p>
+	<footer>
+		{{ $author }}
+		{{- if ne $source "" }}, <cite>{{ $source }}</cite>{{ end }}
+	</footer>
+</blockquote>
