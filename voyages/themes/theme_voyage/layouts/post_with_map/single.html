@@ -14,11 +14,14 @@
 						</span>
 						<p>
 							<strong>Parcours</strong> : {{ .Params.parcours }}<br />
-							<strong>Distance</strong> : {{ .Params.distance }}<br />
+							<strong>Distance</strong> : {{ .Params.distance }}
+								{{ if (isset .Params "denivele") }} 
+									({{ .Params.denivele }})
+								{{ end }}
+							<br />
 						</p>
 					</header>
 					{{ .Content }}
-					{{ partial "comments.html" .}}
 				</div>
 			</div>
 			{{ partial "prevnext.html" .}}
