@@ -3,17 +3,26 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+@font-face {
+    font-family: 'day roman';
+    src: url('fonts/dayrom.woff2') format('woff2'),
+         url('fonts/dayrom.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 html {
     font-size: 62.5%;
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 2.1rem;
+  font-family: 'day roman', 'Times New Roman', serif;
+  font-size: 2rem;
   color: #333333;
 }
 p {
-  line-height: 1.7;
+  line-height: 1.8;
   margin: 30px 0;
   text-align: justify;
 }
@@ -26,7 +35,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -43,6 +51,16 @@ a img:focus {
 blockquote {
   color: #777777;
   font-style: italic;
+  margin: 1.5rem 0;
+}
+blockquote p {
+  margin: 0;
+}
+blockquote footer {
+  padding: 2rem 0 0;
+}
+blockquote cite {
+  font-style: normal;
 }
 hr.small {
   max-width: 100px;
@@ -75,6 +93,10 @@ hr.small {
 }
 .intro-header {
   height: 250px;
+}
+.olControlAttribution {
+  bottom: 0 !important;
+  font-size: 1rem !important;
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -449,7 +471,7 @@ img {
     border:none;
 }
 .map + article {
-    margin-top: 50px;
+    margin-top: 1rem;
 }
 
 
@@ -574,9 +596,11 @@ img {
 	.br {
 		border-left: 4px solid #fff;
 		border-top: 4px solid #fff;
-	}
-
-    .olControlAttribution {
-        bottom: 0 !important;
-    }
+	} 
+  .olControlAttribution {
+    font-size: 1.5rem !important;
+  }
+  .map + article {
+      margin-top: 4rem;
+  }
 }
