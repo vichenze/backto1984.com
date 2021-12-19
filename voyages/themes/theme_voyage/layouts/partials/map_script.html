@@ -15,7 +15,7 @@
 
 		var zoom = {{ .Params.map_zoom | default "8" }};
 
-		var lgpx = new OpenLayers.Layer.Vector("Tracet du jour", {
+		var lgpx = new OpenLayers.Layer.Vector("Tracé du jour", {
 			strategies: [new OpenLayers.Strategy.Fixed()],
 			protocol: new OpenLayers.Protocol.HTTP({
 				url: "{{ .Params.gpx_file }}",
