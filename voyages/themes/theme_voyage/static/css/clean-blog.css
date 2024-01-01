@@ -524,6 +524,13 @@ img {
 	font-size: 1.0em;
 }
 
+dfn {
+    cursor: help;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
 @media screen and (min-width: 641px) {
 
     .map {
