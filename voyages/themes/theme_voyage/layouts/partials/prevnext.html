@@ -1,16 +1,20 @@
+{{ $pages := .Site.RegularPages }}
+{{ $sameCategoryPages := where $pages "Params.categories" "intersect" .Params.categories }}
+
 <footer>
 	<nav class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
-					{{ if .PrevInSection }}
-						<a href="{{ .PrevInSection.Permalink }}">&laquo;&laquo; {{ .PrevInSection.Title }}</a>
+					{{ with $sameCategoryPages.Prev . }}
+						<a href="{{ .Permalink }}">&laquo;&laquo; {{ .Title }}</a>
 					{{ end }}
+
 				</div>
 
 				<div class="col-lg-6 col-md-12 text-right">
-					{{ if .NextInSection }}
-						<a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }} &raquo;&raquo;</a>
+					{{ with $sameCategoryPages.Next . }}
+						<a href="{{ .Permalink }}">{{ .Title }} &raquo;&raquo;</a>
 					{{ end }}
 				</div>
 			</div>

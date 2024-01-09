@@ -54,7 +54,7 @@ blockquote {
   margin: 1.5rem 0;
 }
 blockquote p {
-  margin: 2rem 0;
+  margin: 0 0 2rem;
 }
 blockquote footer {
   padding: 2rem 0 0;
