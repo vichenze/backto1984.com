@@ -4,16 +4,26 @@
 
 	function init() {
 
-		map = new OpenLayers.Map("map");
+        const isMobile = window.matchMedia("(max-width: 768px)").matches;
+        const defaultLongitude = {{ .Params.map_longitude }}
+        const defaultLatitude = {{ .Params.map_latitude }}
+        const defaultZoom = {{ .Params.map_zoom | default "8" }}
+        const mobileLongitude = {{ .Params.mobile_map_longitude }}
+        const mobileLatitude = {{ .Params.mobile_map_latitude }}
+        const mobileZoom = {{ .Params.mobile_map_zoom | default "8" }}
+
+        const longitude = isMobile && mobileLongitude ? mobileLongitude : defaultLongitude;
+        const latitude = isMobile && mobileLatitude ? mobileLatitude : defaultLatitude;
+        const zoom = isMobile && mobileZoom ? mobileZoom : defaultZoom;
+
+		const map = new OpenLayers.Map("map");
 		var mapnik = new OpenLayers.Layer.OSM();
 		map.addLayer(mapnik);
 
-		var lonlat = new OpenLayers.LonLat({{ .Params.map_longitude }}, {{ .Params.map_latitude }}).transform(
+		var lonlat = new OpenLayers.LonLat(longitude, latitude).transform(
 			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
 			new OpenLayers.Projection("EPSG:900913") // to Spherical Mercator
 		);
-
-		var zoom = {{ .Params.map_zoom | default "8" }};
 
 		var lgpx = new OpenLayers.Layer.Vector("Tracé du jour", {
 			strategies: [new OpenLayers.Strategy.Fixed()],
