@@ -2,7 +2,7 @@
 {{- $source := .Get "source" -}}
 
 <blockquote>
-	<p>{{ .Inner }}</p>
+	<p>{{ .Inner|markdownify }}</p>
 	<footer>
 		{{ $author }}
 		{{- if ne $source "" }}, <cite>{{ $source }}</cite>{{ end }}
