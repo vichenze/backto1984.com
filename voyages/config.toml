@@ -1,4 +1,4 @@
-baseurl = "https://voyages.backto1984.com"
+baseurl = "https://voyages.backto1984.com/"
 defaultContentLanguage = "fr"
 title = "Back to 1984 — Voyages"
 theme = "theme_voyage"
