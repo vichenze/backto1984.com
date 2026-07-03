@@ -1,0 +1,12 @@
+baseURL = "http://articles.backto1984.com/"
+languageCode = "fr-fr"
+title = "Back to 1984 - Articles"
+theme = "articles"
+copyright = "hello [at] backto1984.com"
+
+HomepagePosts = 10
+AuthorName = 'vichenze'
+TwitterUsername = 'vichenze'
+
+[blackfriday]
+  extensions = ["hardLineBreak"]

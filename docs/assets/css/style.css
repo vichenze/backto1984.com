@@ -1,0 +1,138 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html, body {
+	height: 100%;
+}
+
+@font-face {
+    font-family: 'orwell';
+    src: url('../fonts/orwell-webfont-webfont.woff2') format('woff2'),
+         url('../fonts/orwell-webfont-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.container {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	height: 25%;
+	border-bottom: 4px solid #fff;
+}
+.container a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.img {
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+	-webkit-transition:all .4s linear;
+	transition:all .4s linear;
+}
+
+.code {
+	background-image: url('../images/code.jpg');
+}
+.voyage {
+	background-image: url('../images/voyage.jpg');
+}
+.fiction {
+	background-image: url('../images/fiction.jpg');
+}
+.article {
+	background-image: url('../images/article.jpg');
+}
+
+h2 {
+	display:inline-block;
+	text-transform:uppercase;
+	font-family: Orwell;
+	position: absolute;
+	top: 10%;
+	padding:7px 14px;
+	background-color:#fff;
+	color: #000;
+	font-size: 1.5em;
+}
+
+@media screen and (min-width: 641px) {
+
+	.container {
+		width: 50%;
+		height: 50%;
+		float: left;
+		border-bottom: none;
+	}
+
+	h2 {
+		color: #fff;
+		border-bottom:8px solid #fff;
+		background-color:transparent;
+		opacity:0;
+		filter:alpha(opacity=0);
+		-webkit-transition:all .2s ease-in-out;
+		transition:all .2s ease-in-out;
+		font-size: 2em;
+	}
+	.tl h2, .bl h2 {
+		right: 0;
+		text-align: right;
+	}
+	.tr h2, .br h2 {
+		left: 0;
+	}
+
+	.img::before {
+		content: " ";
+		width:100%;
+		height:100%;
+		position:absolute;
+		top:0;
+		left:0;
+		opacity:0;
+		background-color:rgba(0,0,0,0.75);
+		-webkit-transition:all .4s ease-in-out;
+		transition:all .4s ease-in-out;
+	}
+
+	.container:hover h2 {
+		opacity:1;
+		filter:alpha(opacity=100);
+	}
+	.container:hover .img {
+		-ms-transform:scale(1.2);
+		-webkit-transform:scale(1.2);
+		transform:scale(1.2);
+	}
+	.container:hover .img::before {
+		opacity:1;
+		filter:alpha(opacity=100);
+	}
+
+	.tl {
+		border-right: 4px solid #fff;
+		border-bottom: 4px solid #fff;
+	}
+	.tr {
+		border-left: 4px solid #fff;
+		border-bottom: 4px solid #fff;
+	}
+	.bl {
+		border-right: 4px solid #fff;
+		border-top: 4px solid #fff;
+	}
+	.br {
+		border-left: 4px solid #fff;
+		border-top: 4px solid #fff;
+	}
+
+}

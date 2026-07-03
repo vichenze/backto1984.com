@@ -1,0 +1,43 @@
+{{ partial "header.html" .}}
+
+    <!-- Page Header -->
+    <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/images/home.jpg')">
+     <div class="container">
+       <div class="row">
+         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+           <div class="site-heading">
+             <h1>{{ .Site.Title }}</h1>
+             <hr class="small">
+             {{ with .Site.Params.Description }}<span class="subheading">{{ . }}</span>{{ end }}
+           </div>
+         </div>
+       </div>
+     </div>
+    </header>
+
+    <div class="container">
+        <section class="intro-cat">
+            <ul>
+                {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+                    {{ range $key, $value := $taxonomy }}
+                        <li class="img-container">
+                            <div class="img" style="background-image: url('/images/cat/small/{{ $key }}.jpg')"></div>
+                            <a href="/categories/{{ $key }}"><h2>{{ humanize $key }}</h2></a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </section>
+    </div>
+
+    <div class="container">
+        <section class="intro-cat">
+
+        </section>
+    </div>
+
+
+
+
+
+{{ partial "footer.html" .}}

@@ -1,0 +1,6 @@
+{{ if .Site.Params.ShowReadTime }}
+  A {{ .ReadingTime }} minute read,
+{{ end }}
+{{ partial "categories.html" .}}
+<br />
+{{ .Date.Day }} {{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}
