@@ -53,7 +53,7 @@ jQuery(document).ready(function($) {
             thumbnailGutterWidth: 1,
             thumbnailGutterHeight: 1,
             imageTransition: 'slideAppear',
-            viewerFullscreen: true,
+            viewerFullscreen: false,
             viewerToolbar: { display: false },
             viewerTools: { topRight: "zoomButton, fullscreenButton, closeButton", topLeft: "pageCounter" },
             kind: 'flickr',
