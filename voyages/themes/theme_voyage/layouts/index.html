@@ -21,7 +21,7 @@
                 {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                     {{ range $key, $value := $taxonomy }}
                         <li class="img-container">
-                            <div class="img" style="background-image: url('/images/cat/small/{{ $key }}.jpg')"></div>
+                            <div class="img" style="background-image: url('/images/cat/small/{{ partial "slug.html" $key }}.jpg')"></div>
                             <a href="/categories/{{ $key }}"><h2>{{ humanize $key }}</h2></a>
                         </li>
                     {{ end }}

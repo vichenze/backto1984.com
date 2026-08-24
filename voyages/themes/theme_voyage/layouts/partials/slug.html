@@ -1,0 +1,13 @@
+{{- /* Slugify a string */ -}}
+{{- $s := . | lower -}}
+{{- $s = replaceRE "[àáâãäåā]" "a" $s -}}
+{{- $s = replaceRE "[çć]" "c" $s -}}
+{{- $s = replaceRE "[èéêëē]" "e" $s -}}
+{{- $s = replaceRE "[ìíîïī]" "i" $s -}}
+{{- $s = replaceRE "[ñ]" "n" $s -}}
+{{- $s = replaceRE "[òóôõöō]" "o" $s -}}
+{{- $s = replaceRE "[ùúûüū]" "u" $s -}}
+{{- $s = replaceRE "[ýÿ]" "y" $s -}}
+{{- $s = replaceRE "[æ]" "ae" $s -}}
+{{- $s = replaceRE "[œ]" "oe" $s -}}
+{{- return ($s | urlize) -}}
