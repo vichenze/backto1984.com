@@ -1,6 +1,6 @@
 +++
 title = "À terre"
-date = "2026-07-31"
+date = "2026-07-30"
 categories = ['Traversée de la mer du Nord']
 type = "post"
 
