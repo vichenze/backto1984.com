@@ -7,6 +7,6 @@ type = "post"
 image = "images/norvege/a-terre/header.jpg"
 +++
 
-Stavanger, Odda, Bergen, Eidfjord, Rødberg, Oslo, Copenhagen, Hambourg
+Stavanger, Odda, Bergen, Eidfjord, Rødberg, Oslo, Copenhagen, Hambourg.
 
 {{< gallery_flickr album_id="72177720336413548" >}}
