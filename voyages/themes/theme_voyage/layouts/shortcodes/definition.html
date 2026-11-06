@@ -1,3 +1,7 @@
-{{- $definition := .Get "definition" -}}
-
-<dfn title="{{ $definition }}">{{ .Inner }}</dfn>
+{{- $rawDefinition := .Get "definition" -}}
+{{- $hash := md5 (printf "%s|%d|%s|%s" .Page.RelPermalink .Ordinal .Inner $rawDefinition) -}}
+{{- $id := printf "definition-%s" $hash -}}
+{{- $definition := $rawDefinition | markdownify | replaceRE "^<p>" "" | replaceRE "</p>\\s*$" "" | safeHTML -}}
+{{- $inner := .Inner | markdownify | replaceRE "^<p>" "" | replaceRE "</p>\\s*$" "" | safeHTML -}}
+{{- /* One line to avoid unwanted whitespace after the popover span. */ -}}
+<span class="definition"><button type="button" class="definition-term" style="anchor-name: --definition-{{ $hash }}" popovertarget="{{ $id }}" popovertargetaction="toggle">{{ $inner }}</button><span id="{{ $id }}" popover="auto" class="definition-popover" style="position-anchor: --definition-{{ $hash }}">{{ $definition }}</span></span>

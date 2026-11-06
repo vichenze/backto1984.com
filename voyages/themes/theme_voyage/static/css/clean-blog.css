@@ -524,11 +524,35 @@ img {
 	font-size: 1.0em;
 }
 
-dfn {
+.definition-term {
     cursor: help;
-    font-style: normal;
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
     text-decoration: underline;
     text-decoration-style: dotted;
+}
+
+.definition-popover {
+    --calculated-width: min(32rem, calc(100vw - 2rem));
+    width: var(--calculated-width);
+    inset: auto;
+    margin: 0;
+    top: calc(anchor(bottom));
+    left: clamp(calc(1rem + var(--calculated-width) / 2), anchor(center), calc(100vw - 1rem - var(--calculated-width) / 2));
+    margin-left: calc(var(--calculated-width) / -2);
+    position-try-fallbacks: flip-block;
+    padding: 1rem 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #fff;
+    color: #333;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: left;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 @media screen and (min-width: 641px) {

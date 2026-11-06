@@ -63,3 +63,27 @@ jQuery(document).ready(function($) {
         });
     }
 });
+
+// Définitions (popover) : show on hover, pin on click
+jQuery(document).ready(function($) {
+    $('.definition').each(function () {
+        const wrapper = this;
+        const term = wrapper.querySelector('[popovertarget]');
+        if (!term) { return; }
+        const popover = document.getElementById(term.getAttribute('popovertarget'));
+        if (!popover) { return; }
+        let pinned = false;
+        $(wrapper).on('mouseenter', function () {
+            if (!pinned && !popover.matches(':popover-open')) { popover.showPopover(); }
+        });
+        $(wrapper).on('mouseleave', function () {
+            if (!pinned && popover.matches(':popover-open')) { popover.hidePopover(); }
+        });
+        term.addEventListener('click', function () {
+            pinned = !popover.matches(':popover-open');
+        });
+        popover.addEventListener('toggle', function (event) {
+            if (event.newState === 'closed') { pinned = false; }
+        });
+    });
+});
